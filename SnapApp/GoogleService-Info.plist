@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>983611668448-ubrk1a6n1ogl6dqso5qu0sp6jlfm1h3t.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.983611668448-ubrk1a6n1ogl6dqso5qu0sp6jlfm1h3t</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB2d86oW80-JPbDeYGJZamxIYyYNkR7YF4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>983611668448</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>pe.edu.tecsup.SnapApp</string>
+	<key>PROJECT_ID</key>
+	<string>snapapp-d2778</string>
+	<key>STORAGE_BUCKET</key>
+	<string>snapapp-d2778.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:983611668448:ios:949039931d5f9b8e969d85</string>
+</dict>
+</plist>
